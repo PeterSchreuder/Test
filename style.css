@@ -1,0 +1,8 @@
+* {
+    padding: 1rem;
+}
+body {
+    display: grid;
+    text-align: center;
+    grid-column: auto;
+}
